@@ -1,0 +1,3454 @@
+[31m-------------------------------{ Welcome to Tactical chaos }------------------------------- [0m
+[33mWe hope you enjoy the game
+
+[0m
+First of all: Game Rules: 
+What is the arena size ( Square ):
+Exit
+What is the maximum number of champions that every player can have: 
+What is the maximum number of rounds ( Greater than 10 ) : 
+What is the maximum number of changes that every player can do in each round: 
+What is the number of Actions that every player can do in each round: 
+Do You Want To Exist Specific Groups In The Game ? Y/N
+Number Of Players: Player #1 name: This player is:
+1)- Console.
+2)- Auto(Bot).
+
+Player #2 name: This player is:
+1)- Console.
+2)- Auto(Bot).
+
+We done with the rules...
+So let's get started
+------------(Round #1)------------
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  #  #  # 
+ #  #  #  # 
+ #  #  #  # 
+2 is playing now...
+UUU
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+KnightArmor And The Wearer Is Also  Added Successfully
+Before: Damage: 50.0
+Armor has ben incremented by 15%
+After: Damage: 50.0
+Armor has ben incremented by 15%
+Hero Now Have Groups: 
+1- Void
+2- Ranger
+3- Knight
+true
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+Auto Player Buys Hero
+2 Buys Kindred
+1 0 0
+Kindred || 1
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  #  #  # 
+ #  #  #  # 
+ #  #  #  # 
+3 is playing now...
+UUU
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+WarriorGloves And The Wearer Is Also  Added Successfully
+Before: Damage: 50.0
+Damage has ben incremented by 10%
+After: Damage: 55.0
+Damage has ben incremented by 10%
+Hero Now Have Groups: 
+1- Yordle
+2- Elemntalist
+3- BladeMaster
+true
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+Auto Player Buys Hero
+3 Buys Lulu
+1 0 0
+Lulu || 1
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  #  *  # 
+ #  E  #  # 
+ #  #  #  # 
+2 is playing now...
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  #  E  # 
+ #  *  #  # 
+ #  #  #  # 
+3 is playing now...
+UUU
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+KnightArmor And The Wearer Is Also  Added Successfully
+Before: Damage: 50.0
+Armor has ben incremented by 15%
+After: Damage: 50.0
+Armor has ben incremented by 15%
+Hero Now Have Groups: 
+1- Pirate
+2- Assassin
+3- Knight
+true
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+Auto Player Buys Hero
+3 Buys Pyke
+1 0 0
+Lulu || 1
+Pyke || 1
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  #  *  # 
+ #  E  #  # 
+ #  #  #  E 
+2 is playing now...
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  #  E  # 
+ #  *  #  # 
+ #  #  #  * 
+3 is playing now...
+UUU
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+KnightArmor And The Wearer Is Also  Added Successfully
+Before: Damage: 50.0
+Armor has ben incremented by 15%
+After: Damage: 50.0
+Armor has ben incremented by 15%
+Hero Now Have Groups: 
+1- Void
+2- Sorcerer
+3- Knight
+true
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+Auto Player Buys Hero
+3 Buys Kassadin
+1 0 0
+Lulu || 1
+Pyke || 1
+Kassadin || 1
+------------(Round #2)------------
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  #  *  # 
+ #  E  E  # 
+ #  #  #  E 
+2 is playing now...
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  #  E  # 
+ #  *  *  # 
+ #  #  #  * 
+3 is playing now...
+UUU
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+VoidHit And The Wearer Is Also  Added Successfully
+Before: Damage: 35.0
+MaxHealth has ben incremented by 5%
+After: Damage: 35.0
+MaxHealth has ben incremented by 5%
+This Group is already exist
+Hero Now Have Groups: 
+1- Void
+2- Brawler
+true
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m A [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+Auto Player Buys Hero
+3 Buys Chogath
+1 0 0
+Lulu || 1
+Pyke || 1
+Kassadin || 1
+Chogath || 1
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m A [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m A [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  #  *  # 
+ #  E  E  # 
+ #  #  #  E 
+2 is playing now...
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  #  E  # 
+ #  *  *  # 
+ #  #  #  * 
+3 is playing now...
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m A [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  #  *  # 
+ #  E  E  # 
+ #  #  #  E 
+2 is playing now...
+UUU
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m A [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+MagicHat And The Wearer Is Also  Added Successfully
+Before: Damage: 50.0
+After: Damage: 60.0
+Hero Now Have Groups: 
+1- Noble
+2- Ranger
+3- Sorcerer
+true
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[31m A [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+Auto Player Buys Hero
+2 Buys Vayne
+1 0 0
+Kindred || 1
+Vayne || 1
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  #  E  # 
+ #  C  *  # 
+ #  #  #  * 
+3 is playing now...
+------------(Round #3)------------
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[31m A [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  #  *  # 
+ #  C  E  # 
+ #  #  #  E 
+2 is playing now...
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  #  E  # 
+ #  C  *  # 
+ #  #  #  * 
+3 is playing now...
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[31m A [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[31m A [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  #  *  # 
+ #  C  E  # 
+ #  #  #  E 
+2 is playing now...
+UUU
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[31m A [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+AngryCloak And The Wearer Is Also  Added Successfully
+Before: Damage: 50.0
+Series Power Attack Has been incremented 20% successfully
+After: Damage: 50.0
+Series Power Attack Has been incremented 20% successfully
+Hero Now Have Groups: 
+1- Void
+2- Knight
+3- Yordle
+true
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+Auto Player Buys Hero
+2 Buys Mordekaiser
+1 0 0
+Kindred || 1
+Vayne || 1
+Mordekaiser || 1
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  #  E  # 
+ #  C  C  # 
+ #  #  #  * 
+3 is playing now...
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  #  *  # 
+ #  C  E  # 
+ #  #  #  E 
+2 is playing now...
+UUU
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+NightShift And The Wearer Is Also  Added Successfully
+Before: Damage: 20.0
+HI: 20.0
+4.0
+Damage has ben incremented by 20%
+After: Damage: 24.0
+HI: 24.0
+4.8
+Damage has ben incremented by 20%
+This Group is already exist
+Hero Now Have Groups: 
+1- Demon
+2- Assassin
+true
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+Auto Player Buys Hero
+2 Buys Evelynn
+1 0 0
+Kindred || 1
+Vayne || 1
+Mordekaiser || 1
+Evelynn || 1
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  E  E  # 
+ #  C  C  # 
+ #  #  #  * 
+3 is playing now...
+UUU
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+MagicHat And The Wearer Is Also  Added Successfully
+Before: Damage: 50.0
+After: Damage: 60.0
+Hero Now Have Groups: 
+1- Glacial
+2- Knight
+3- Sorcerer
+true
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+Auto Player Buys Hero
+3 Buys Sejuani
+1 0 0
+Lulu || 1
+Pyke || 1
+Kassadin || 1
+Chogath || 1
+Sejuani || 1
+------------(Round #4)------------
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  *  # 
+ #  C  E  # 
+ #  #  #  E 
+2 is playing now...
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  E  # 
+ #  C  C  # 
+ #  #  #  * 
+3 is playing now...
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  *  # 
+ #  C  E  # 
+ #  #  #  E 
+2 is playing now...
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  E  # 
+ #  C  C  # 
+ #  #  #  * 
+3 is playing now...
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  *  # 
+ #  C  E  # 
+ #  #  #  E 
+2 is playing now...
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  E  # 
+ #  C  C  # 
+ #  #  #  * 
+3 is playing now...
+------------(Round #5)------------
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  *  # 
+ #  C  E  # 
+ #  #  #  E 
+2 is playing now...
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  E  # 
+ #  C  C  # 
+ #  #  #  * 
+3 is playing now...
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  *  # 
+ #  C  E  # 
+ #  #  #  E 
+2 is playing now...
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  E  # 
+ #  C  C  # 
+ #  #  #  * 
+3 is playing now...
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  *  # 
+ #  C  E  # 
+ #  #  #  E 
+2 is playing now...
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  E  # 
+ #  C  C  # 
+ #  #  #  * 
+3 is playing now...
+------------(Round #6)------------
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  *  # 
+ #  C  E  # 
+ #  #  #  E 
+2 is playing now...
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  E  # 
+ #  C  C  # 
+ #  #  #  * 
+3 is playing now...
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  *  # 
+ #  C  E  # 
+ #  #  #  E 
+2 is playing now...
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  E  # 
+ #  C  C  # 
+ #  #  #  * 
+3 is playing now...
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  *  # 
+ #  C  E  # 
+ #  #  #  E 
+2 is playing now...
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  E  # 
+ #  C  C  # 
+ #  #  #  * 
+3 is playing now...
+------------(Round #7)------------
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  *  # 
+ #  C  E  # 
+ #  #  #  E 
+2 is playing now...
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  E  # 
+ #  C  C  # 
+ #  #  #  * 
+3 is playing now...
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  *  # 
+ #  C  E  # 
+ #  #  #  E 
+2 is playing now...
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  E  # 
+ #  C  C  # 
+ #  #  #  * 
+3 is playing now...
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  *  # 
+ #  C  E  # 
+ #  #  #  E 
+2 is playing now...
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  E  # 
+ #  C  C  # 
+ #  #  #  * 
+3 is playing now...
+------------(Round #8)------------
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  *  # 
+ #  C  E  # 
+ #  #  #  E 
+2 is playing now...
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  E  # 
+ #  C  C  # 
+ #  #  #  * 
+3 is playing now...
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  *  # 
+ #  C  E  # 
+ #  #  #  E 
+2 is playing now...
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  E  # 
+ #  C  C  # 
+ #  #  #  * 
+3 is playing now...
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  *  # 
+ #  C  E  # 
+ #  #  #  E 
+2 is playing now...
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  E  # 
+ #  C  C  # 
+ #  #  #  * 
+3 is playing now...
+------------(Round #9)------------
+Arena Squares Types:
+
+ [34mW[0m  [34mW[0m  [34mW[0m  [34mW[0m 
+ [31mT[0m  [32mG[0m  [31mT[0m  S 
+ S  [34mW[0m  S  [34mW[0m 
+ S  [34mW[0m  S  [31mT[0m 
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  *  # 
+ #  C  E  # 
+ #  #  #  E 
+2 is playing now...
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  E  # 
+ #  C  C  # 
+ #  #  #  * 
+3 is playing now...
+Arena Squares Types:
+
+ [34mW[0m  [34mW[0m  [34mW[0m  [34mW[0m 
+ [31mT[0m  [32mG[0m  [31mT[0m  S 
+ S  [34mW[0m  S  [34mW[0m 
+ S  [34mW[0m  S  [31mT[0m 
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+Arena Squares Types:
+
+ [34mW[0m  [34mW[0m  [34mW[0m  [34mW[0m 
+ [31mT[0m  [32mG[0m  [31mT[0m  S 
+ S  [34mW[0m  S  [34mW[0m 
+ S  [34mW[0m  S  [31mT[0m 
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  *  # 
+ #  C  E  # 
+ #  #  #  E 
+2 is playing now...
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  E  # 
+ #  C  C  # 
+ #  #  #  * 
+3 is playing now...
+Arena Squares Types:
+
+ [34mW[0m  [34mW[0m  [34mW[0m  [34mW[0m 
+ [31mT[0m  [32mG[0m  [31mT[0m  S 
+ S  [34mW[0m  S  [34mW[0m 
+ S  [34mW[0m  S  [31mT[0m 
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  *  # 
+ #  C  E  # 
+ #  #  #  E 
+2 is playing now...
+3: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  E  # 
+ #  C  C  # 
+ #  #  #  * 
+3 is playing now...
+------------(Round #10)------------
+Arena Squares Types:
+
+ [34mW[0m  [34mW[0m  [34mW[0m  [34mW[0m 
+ [31mT[0m  [32mG[0m  [31mT[0m  S 
+ S  [34mW[0m  S  [34mW[0m 
+ S  [34mW[0m  S  [31mT[0m 
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+The Hero's Information Are:
+Name: Kindred
+Level: 1
+Player: 2
+Health: 350.0
+Max Health: 350.0
+Magic Resistance: 10.0%
+Attack Scope: 62.0
+Vission Scope: 32.0
+Speed: 5.0
+Possible Series Attack: 25.0%
+Series Attack Power: 200.0%
+Mana: 5.0
+Mana Start: 5.0
+Ability: KindredAbility
+Power Attack: 50.0
+Mana Price: 10.0
+Hero Price: 2.0
+Armor: 53.225%
+Groups: 
+1- Void
+2- Ranger
+3- Knight
+Hero xPos: 1 , yPos: 2
+Is Alive: YES
+Item: KnightArmor
+The Hero's Information Are:
+Name: Vayne
+Level: 1
+Player: 2
+Health: 300.0
+Max Health: 300.0
+Magic Resistance: 10.0%
+Attack Scope: 62.0
+Vission Scope: 32.0
+Speed: 5.0
+Possible Series Attack: 25.0%
+Series Attack Power: 1512.0%
+Mana: 0.0
+Mana Start: 0.0
+Ability: VayneAbility
+Power Attack: 72.0
+Mana Price: 3.0
+Hero Price: 1.0
+Armor: 30.0%
+Groups: 
+1- Noble
+2- Ranger
+3- Sorcerer
+Hero xPos: 2 , yPos: 1
+Is Alive: YES
+Item: MagicHat
+The Hero's Information Are:
+Name: Mordekaiser
+Level: 1
+Player: 2
+Health: 550.0
+Max Health: 550.0
+Magic Resistance: 50.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 216.0%
+Mana: 5.0
+Mana Start: 5.0
+Ability: MordekaiserAbility
+Power Attack: 50.0
+Mana Price: 10.0
+Hero Price: 1.0
+Armor: 70.0%
+Groups: 
+1- Void
+2- Knight
+3- Yordle
+Hero xPos: 2 , yPos: 2
+Is Alive: YES
+Item: AngryCloak
+The Hero's Information Are:
+Name: Evelynn
+Level: 1
+Player: 2
+Health: 500.0
+Max Health: 500.0
+Magic Resistance: 25.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 5.0
+Mana Start: 5.0
+Ability: EvelynnAbility
+Power Attack: 28.8
+Mana Price: 8.0
+Hero Price: 3.0
+Armor: 45.0%
+Groups: 
+1- Demon
+2- Assassin
+Hero xPos: 1 , yPos: 1
+Is Alive: YES
+Item: NightShift
+2: it is your turn.
+Your Arena: 
+ #  #  #  # 
+ #  C  *  # 
+ #  C  E  # 
+ #  #  #  E 
+2 is playing now...
+Auto Player Buys Hero And Put him in the Bench
+2 is playing now...
+2 is playing now...
+2 is playing now...
+2 is playing now...
+2 is playing now...
+The Hero's Information Are:
+Name: Lulu
+Level: 1
+Player: 3
+Health: 350.0
+Max Health: 350.0
+Magic Resistance: 50.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 5.0
+Mana Start: 5.0
+Ability: LuluAbility
+Power Attack: 60.5
+Mana Price: 10.0
+Hero Price: 2.0
+Armor: 50.0%
+Groups: 
+1- Yordle
+2- Elemntalist
+3- BladeMaster
+Hero xPos: 2 , yPos: 1
+Is Alive: YES
+Item: WarriorGloves
+The Hero's Information Are:
+Name: Pyke
+Level: 1
+Player: 3
+Health: 200.0
+Max Health: 200.0
+Magic Resistance: 25.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 5.0
+Mana Start: 5.0
+Ability: PykeAbility
+Power Attack: 50.0
+Mana Price: 7.0
+Hero Price: 2.0
+Armor: 33.0625%
+Groups: 
+1- Pirate
+2- Assassin
+3- Knight
+Hero xPos: 3 , yPos: 3
+Is Alive: YES
+Item: KnightArmor
+The Hero's Information Are:
+Name: Kassadin
+Level: 1
+Player: 3
+Health: 550.0
+Max Health: 550.0
+Magic Resistance: 30.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 2268.0%
+Mana: 0.0
+Mana Start: 0.0
+Ability: KassadinAbility
+Power Attack: 50.0
+Mana Price: 0.0
+Hero Price: 2.0
+Armor: 39.675%
+Groups: 
+1- Void
+2- Sorcerer
+3- Knight
+Hero xPos: 2 , yPos: 2
+Is Alive: YES
+Item: KnightArmor
+The Hero's Information Are:
+Name: Chogath
+Level: 1
+Player: 3
+Health: 600.0
+Max Health: 661.5
+Magic Resistance: 30.0%
+Attack Scope: 25.0
+Vission Scope: 15.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 5.0
+Mana Start: 5.0
+Ability: ChogathAbility
+Power Attack: 35.0
+Mana Price: 10.0
+Hero Price: 1.0
+Armor: 30.0%
+Groups: 
+1- Void
+2- Brawler
+Hero xPos: 2 , yPos: 2
+Is Alive: YES
+Item: VoidHit
+The Hero's Information Are:
+Name: Sejuani
+Level: 1
+Player: 3
+Health: 550.0
+Max Health: 550.0
+Magic Resistance: 50.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 2268.0%
+Mana: 5.0
+Mana Start: 5.0
+Ability: SejuaniAbility
+Power Attack: 72.0
+Mana Price: 10.0
+Hero Price: 2.0
+Armor: 50.0%
+Groups: 
+1- Glacial
+2- Knight
+3- Sorcerer
+Hero xPos: 1 , yPos: 1
+Is Alive: YES
+Item: MagicHat
+3: it is your turn.
+Your Arena: 
+ E  #  #  # 
+ #  *  E  # 
+ #  C  C  # 
+ #  #  #  * 
+3 is playing now...
+Auto Player Buys Hero And Put him in the Bench
+3 is playing now...
+3 is playing now...
+3 is playing now...
+3 is playing now...
+3 is playing now...
+Speed Answer: 5 Move Answer: 6 X: 0 Y: 0
+Invalid Place
+OLD MOVE X: 0 OLD MOVE Y: 0
+new MOVE X: 0 new MOVE Y: 0
+You Stayed In your last pos
+Attack for Hero: Kindred which in place <1, 2>:
+Ability for Hero: Vayne which in place <0, 0>:
+ID: 42 ID 14
+ID: 42 ID 22
+ID: 42 ID 42
+Player Name Conf: 3
+The random player is : 3 The Random Hero Is: 26
+Player 2 Destroy Hero Lulu Of Player 3 Max Health By 10% and become 287.0
+Ability Has Been Done Successfully
+YAAAAY
+Attack for Hero: Mordekaiser which in place <2, 2>:
+Attack for Hero: Sejuani which in place <1, 1>:
+Sejuani mybe is stunned or his group are stunned or Kindred Is immune
+Attack for Hero: Fiora which in place <0, 0>:
+Ability for Hero: Lulu which in place <0, 0>:
+ID: 26 ID 34
+ID: 26 ID 11
+ID: 26 ID 26
+Hero: Sejuani health incremented 150
+Hero: Fiora health incremented 150
+Hero: Lulu health incremented 150
+Ability Has Been Done Successfully
+YAAAAY
+Attack for Hero: Pyke which in place <3, 3>:
+Pyke mybe is stunned or his group are stunned or Gnar Is immune
+Attack for Hero: Kassadin which in place <2, 2>:
+Kassadin mybe is stunned or his group are stunned or Gnar Is immune
+Arena Squares Types:
+
+ [34mW[0m  [34mW[0m  [34mW[0m  [34mW[0m 
+ [31mT[0m  [32mG[0m  [31mT[0m  S 
+ S  [34mW[0m  S  [34mW[0m 
+ S  [34mW[0m  S  [31mT[0m 
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[34m N [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+The Hero's Information Are:
+Name: Gnar
+Level: 1
+Player: 2
+Health: 450.0
+Max Health: 450.0
+Magic Resistance: 30.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 32.399998
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 5.0
+Mana Start: 5.0
+Ability: GnarAbility
+Power Attack: 45.0
+Mana Price: 10.0
+Hero Price: 4.0
+Armor: 30.0%
+Groups: 
+1- Wild
+2- Yordle
+3- Shapeshifter
+Hero xPos: 0 , yPos: 0
+Is Alive: YES
+The Hero's Information Are:
+Name: Kindred
+Level: 1
+Player: 2
+Health: 350.0
+Max Health: 350.0
+Magic Resistance: 10.0%
+Attack Scope: 62.0
+Vission Scope: 32.0
+Speed: 5.0
+Possible Series Attack: 25.0%
+Series Attack Power: 200.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: KindredAbility
+Power Attack: 50.0
+Mana Price: 10.0
+Hero Price: 2.0
+Armor: 53.225%
+Groups: 
+1- Void
+2- Ranger
+3- Knight
+Hero xPos: 1 , yPos: 2
+Is Alive: YES
+Item: KnightArmor
+The Hero's Information Are:
+Name: Vayne
+Level: 1
+Player: 2
+Health: 300.0
+Max Health: 300.0
+Magic Resistance: 10.0%
+Attack Scope: 62.0
+Vission Scope: 32.0
+Speed: 5.0
+Possible Series Attack: 25.0%
+Series Attack Power: 1512.0%
+Mana: 0.0
+Mana Start: 0.0
+Ability: VayneAbility
+Power Attack: 72.0
+Mana Price: 3.0
+Hero Price: 1.0
+Armor: 30.0%
+Groups: 
+1- Noble
+2- Ranger
+3- Sorcerer
+Hero xPos: 2 , yPos: 1
+Is Alive: YES
+Item: MagicHat
+The Hero's Information Are:
+Name: Mordekaiser
+Level: 1
+Player: 2
+Health: 550.0
+Max Health: 550.0
+Magic Resistance: 50.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 216.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: MordekaiserAbility
+Power Attack: 50.0
+Mana Price: 10.0
+Hero Price: 1.0
+Armor: 70.0%
+Groups: 
+1- Void
+2- Knight
+3- Yordle
+Hero xPos: 2 , yPos: 2
+Is Alive: YES
+Item: AngryCloak
+2: it is your turn.
+Your Arena: 
+ C  #  #  # 
+ #  E  *  # 
+ #  C  C  # 
+ #  #  #  E 
+2 is playing now...
+2 is playing now...
+2 is playing now...
+2 is playing now...
+2 is playing now...
+2 is playing now...
+The Hero's Information Are:
+Name: Sejuani
+Level: 1
+Player: 3
+Health: 550.0
+Max Health: 550.0
+Magic Resistance: 50.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 2268.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: SejuaniAbility
+Power Attack: 72.0
+Mana Price: 10.0
+Hero Price: 2.0
+Armor: 50.0%
+Groups: 
+1- Glacial
+2- Knight
+3- Sorcerer
+Hero xPos: 1 , yPos: 1
+Is Alive: YES
+Item: MagicHat
+The Hero's Information Are:
+Name: Fiora
+Level: 1
+Player: 3
+Health: 500.0
+Max Health: 500.0
+Magic Resistance: 40.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: FioraAbility
+Power Attack: 22.5
+Mana Price: 10.0
+Hero Price: 1.0
+Armor: 40.0%
+Groups: 
+1- Noble
+2- BladeMaster
+Hero xPos: 0 , yPos: 0
+Is Alive: YES
+The Hero's Information Are:
+Name: Lulu
+Level: 1
+Player: 3
+Health: 287.0
+Max Health: 287.0
+Magic Resistance: 50.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 5.0
+Mana Start: 5.0
+Ability: LuluAbility
+Power Attack: 30.25
+Mana Price: 10.0
+Hero Price: 2.0
+Armor: 50.0%
+Groups: 
+1- Yordle
+2- Elemntalist
+3- BladeMaster
+Hero xPos: 2 , yPos: 1
+Is Alive: YES
+Item: WarriorGloves
+The Hero's Information Are:
+Name: Pyke
+Level: 1
+Player: 3
+Health: 200.0
+Max Health: 200.0
+Magic Resistance: 25.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: PykeAbility
+Power Attack: 50.0
+Mana Price: 7.0
+Hero Price: 2.0
+Armor: 33.0625%
+Groups: 
+1- Pirate
+2- Assassin
+3- Knight
+Hero xPos: 3 , yPos: 3
+Is Alive: YES
+Item: KnightArmor
+The Hero's Information Are:
+Name: Kassadin
+Level: 1
+Player: 3
+Health: 550.0
+Max Health: 550.0
+Magic Resistance: 30.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 2268.0%
+Mana: 0.0
+Mana Start: 0.0
+Ability: KassadinAbility
+Power Attack: 50.0
+Mana Price: 0.0
+Hero Price: 2.0
+Armor: 39.675%
+Groups: 
+1- Void
+2- Sorcerer
+3- Knight
+Hero xPos: 2 , yPos: 2
+Is Alive: YES
+Item: KnightArmor
+3: it is your turn.
+Your Arena: 
+ C  #  #  # 
+ #  *  E  # 
+ #  C  C  # 
+ #  #  #  * 
+3 is playing now...
+3 is playing now...
+3 is playing now...
+3 is playing now...
+3 is playing now...
+3 is playing now...
+Speed Answer: 6 Move Answer: 0 X: 0 Y: 0
+OLD MOVE X: 0 OLD MOVE Y: 0
+new MOVE X: 0 new MOVE Y: 0
+You Stayed In your last pos
+Attack for Hero: Lulu which in place <2, 1>:
+Speed Answer: 2 Move Answer: 6 X: 3 Y: 3
+1
+1
+1
+You Are In Water Square So Your movement will be decreased by one
+2 1
+NightShift And The Wearer Is Also  Added Successfully
+Before: Damage: 50.0
+HI: 50.0
+10.0
+Damage has ben incremented by 20%
+After: Damage: 60.0
+HI: 60.0
+12.0
+Damage has ben incremented by 20%
+This Group is already exist
+Hero Now Have Groups: 
+1- Pirate
+2- Assassin
+3- Knight
+ Added Successfully
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[36m E [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+OLD MOVE X: 3 OLD MOVE Y: 3
+new MOVE X: 2 new MOVE Y: 1
+Speed Answer: 6 Move Answer: 1 X: 2 Y: 2
+Invalid Place
+OLD MOVE X: 2 OLD MOVE Y: 2
+new MOVE X: 2 new MOVE Y: 2
+You Stayed In your last pos
+Ability for Hero: Chogath which in place <0, 0>:
+ID: 7 ID 11
+ID: 7 ID 26
+ID: 7 ID 32
+ID: 7 ID 17
+ID: 7 ID 7
+Player Name Conf: 2
+The random player is : 2 The Random Hero Is: 42
+Player 3 Destroy Hero Vayne Of Player 2 Magic Resistance Totally
+Player 3 Destroy Hero Vayne Of Player 2 In his health By 140.0
+Ability Has Been Done Successfully
+YAAAAY
+Speed Answer: 7 Move Answer: 4 X: 0 Y: 0
+Invalid Place
+OLD MOVE X: 0 OLD MOVE Y: 0
+new MOVE X: 0 new MOVE Y: 0
+You Stayed In your last pos
+Speed Answer: 4 Move Answer: 4 X: 1 Y: 2
+Invalid Place
+OLD MOVE X: 1 OLD MOVE Y: 2
+new MOVE X: 1 new MOVE Y: 2
+You Stayed In your last pos
+Speed Answer: 0 Move Answer: 0 X: 2 Y: 1
+OLD MOVE X: 2 OLD MOVE Y: 1
+new MOVE X: 2 new MOVE Y: 1
+You Stayed In your last pos
+Ability for Hero: Mordekaiser which in place <0, 0>:
+ID: 28 ID 14
+ID: 28 ID 22
+ID: 28 ID 42
+ID: 28 ID 28
+Hero: Mordekaiser Damage incremented successfully
+Player Name Conf: 2
+Player Name Conf: 2
+Player Name Conf: 3
+The random player is : 3 The Random Hero Is: 32
+Player 2 Destroy Hero Pyke Of Player 3 Magic Resistance Totally
+Player 2 Destroy Hero Pyke Of Player 3 In his health By 125
+Ability Has Been Done Successfully
+YAAAAY
+Arena Squares Types:
+
+ [34mW[0m  [34mW[0m  [34mW[0m  [34mW[0m 
+ [31mT[0m  [32mG[0m  [31mT[0m  S 
+ S  [34mW[0m  S  [34mW[0m 
+ S  [34mW[0m  S  [31mT[0m 
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[36m E [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+The Hero's Information Are:
+Name: Gnar
+Level: 1
+Player: 2
+Health: 450.0
+Max Health: 450.0
+Magic Resistance: 30.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 32.399998
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 5.0
+Mana Start: 5.0
+Ability: GnarAbility
+Power Attack: 45.0
+Mana Price: 10.0
+Hero Price: 4.0
+Armor: 30.0%
+Groups: 
+1- Wild
+2- Yordle
+3- Shapeshifter
+Hero xPos: 0 , yPos: 0
+Is Alive: YES
+The Hero's Information Are:
+Name: Kindred
+Level: 1
+Player: 2
+Health: 350.0
+Max Health: 350.0
+Magic Resistance: 10.0%
+Attack Scope: 62.0
+Vission Scope: 32.0
+Speed: 5.0
+Possible Series Attack: 25.0%
+Series Attack Power: 200.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: KindredAbility
+Power Attack: 50.0
+Mana Price: 10.0
+Hero Price: 2.0
+Armor: 53.225%
+Groups: 
+1- Void
+2- Ranger
+3- Knight
+Hero xPos: 1 , yPos: 2
+Is Alive: YES
+Item: KnightArmor
+The Hero's Information Are:
+Name: Vayne
+Level: 1
+Player: 2
+Health: 300.0
+Max Health: 300.0
+Magic Resistance: 0.0%
+Attack Scope: 62.0
+Vission Scope: 32.0
+Speed: 5.0
+Possible Series Attack: 25.0%
+Series Attack Power: 1512.0%
+Mana: 0.0
+Mana Start: 0.0
+Ability: VayneAbility
+Power Attack: 72.0
+Mana Price: 3.0
+Hero Price: 1.0
+Armor: 30.0%
+Groups: 
+1- Noble
+2- Ranger
+3- Sorcerer
+Hero xPos: 2 , yPos: 1
+Is Alive: YES
+Item: MagicHat
+The Hero's Information Are:
+Name: Mordekaiser
+Level: 1
+Player: 2
+Health: 550.0
+Max Health: 550.0
+Magic Resistance: 50.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 216.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: MordekaiserAbility
+Power Attack: 200.0
+Mana Price: 10.0
+Hero Price: 1.0
+Armor: 70.0%
+Groups: 
+1- Void
+2- Knight
+3- Yordle
+Hero xPos: 2 , yPos: 2
+Is Alive: YES
+Item: AngryCloak
+2: it is your turn.
+Your Arena: 
+ C  #  #  # 
+ #  #  *  # 
+ #  E  E  # 
+ #  #  #  # 
+2 is playing now...
+2 is playing now...
+2 is playing now...
+2 is playing now...
+2 is playing now...
+2 is playing now...
+The Hero's Information Are:
+Name: Fiora
+Level: 1
+Player: 3
+Health: 500.0
+Max Health: 500.0
+Magic Resistance: 40.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: FioraAbility
+Power Attack: 22.5
+Mana Price: 10.0
+Hero Price: 1.0
+Armor: 40.0%
+Groups: 
+1- Noble
+2- BladeMaster
+Hero xPos: 0 , yPos: 0
+Is Alive: YES
+The Hero's Information Are:
+Name: Lulu
+Level: 1
+Player: 3
+Health: 287.0
+Max Health: 287.0
+Magic Resistance: 50.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 10.0
+Mana Start: 5.0
+Ability: LuluAbility
+Power Attack: 30.25
+Mana Price: 10.0
+Hero Price: 2.0
+Armor: 50.0%
+Groups: 
+1- Yordle
+2- Elemntalist
+3- BladeMaster
+Hero xPos: 2 , yPos: 1
+Is Alive: YES
+Item: WarriorGloves
+The Hero's Information Are:
+Name: Pyke
+Level: 1
+Player: 3
+Health: 200.0
+Max Health: 200.0
+Magic Resistance: 0.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: PykeAbility
+Power Attack: 72.0
+Mana Price: 7.0
+Hero Price: 2.0
+Armor: 33.0625%
+Groups: 
+1- Pirate
+2- Assassin
+3- Knight
+Hero xPos: 2 , yPos: 1
+Is Alive: YES
+Item: KnightArmor
+Item: NightShift
+The Hero's Information Are:
+Name: Kassadin
+Level: 1
+Player: 3
+Health: 550.0
+Max Health: 550.0
+Magic Resistance: 30.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 2268.0%
+Mana: 0.0
+Mana Start: 0.0
+Ability: KassadinAbility
+Power Attack: 50.0
+Mana Price: 0.0
+Hero Price: 2.0
+Armor: 39.675%
+Groups: 
+1- Void
+2- Sorcerer
+3- Knight
+Hero xPos: 2 , yPos: 2
+Is Alive: YES
+Item: KnightArmor
+The Hero's Information Are:
+Name: Chogath
+Level: 1
+Player: 3
+Health: 640.0
+Max Health: 661.5
+Magic Resistance: 30.0%
+Attack Scope: 25.0
+Vission Scope: 15.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 5.0
+Mana Start: 5.0
+Ability: ChogathAbility
+Power Attack: 35.0
+Mana Price: 10.0
+Hero Price: 1.0
+Armor: 50.0%
+Groups: 
+1- Void
+2- Brawler
+Hero xPos: 2 , yPos: 2
+Is Alive: YES
+Item: VoidHit
+3: it is your turn.
+Your Arena: 
+ C  #  #  # 
+ #  #  E  # 
+ #  C  C  # 
+ #  #  #  # 
+3 is playing now...
+Auto Player Buys Hero And Put him in the Bench
+3 is playing now...
+3 is playing now...
+3 is playing now...
+3 is playing now...
+3 is playing now...
+Ability for Hero: Gnar which in place <0, 0>:
+ID: 14 ID 14
+Hero: Fiora Magic resitance decremented by 100 and become0.0
+Hero: Lulu Magic resitance decremented by 100 and become0.0
+Hero: Pyke Magic resitance decremented by 100 and become0.0
+Hero: Kassadin Magic resitance decremented by 100 and become0.0
+Hero: Chogath Magic resitance decremented by 100 and become0.0
+Ability Has Been Done Successfully
+YAAAAY
+Ability for Hero: Kindred which in place <0, 0>:
+ID: 22 ID 14
+ID: 22 ID 22
+Hero:Gnar  power attack has been incremented 10%
+Hero:Kindred  power attack has been incremented 10%
+Hero:Vayne  power attack has been incremented 10%
+Hero:Mordekaiser  power attack has been incremented 10%
+All Allies Power attack incremented successfully
+Ability Has Been Done Successfully
+YAAAAY
+Ability for Hero: Vayne which in place <0, 0>:
+ID: 42 ID 14
+ID: 42 ID 22
+ID: 42 ID 42
+Player Name Conf: 3
+The random player is : 3 The Random Hero Is: 26
+Player 2 Destroy Hero Lulu Of Player 3 Max Health By 10% and become 235.34
+Ability Has Been Done Successfully
+YAAAAY
+Speed Answer: 3 Move Answer: 6 X: 2 Y: 2
+Invalid Place
+OLD MOVE X: 2 OLD MOVE Y: 2
+new MOVE X: 2 new MOVE Y: 2
+You Stayed In your last pos
+Ability for Hero: Fiora which in place <0, 0>:
+ID: 11 ID 11
+Player Name Conf: 3
+Player Name Conf: 3
+Player Name Conf: 3
+Player Name Conf: 3
+Player Name Conf: 2
+The random player is : 2 The Random Hero Is: 22
+Hero Kindred Stunned successfully
+You Stunned A Hero For One Rounde
+Ability Has Been Done Successfully
+YAAAAY
+Attack for Hero: Lulu which in place <2, 1>:
+Attack for Hero: Pyke which in place <2, 1>:
+Speed Answer: 0 Move Answer: 1 X: 2 Y: 2
+2 2
+There is no item in your place to catch !
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[36m E [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+OLD MOVE X: 2 OLD MOVE Y: 2
+new MOVE X: 2 new MOVE Y: 2
+You Stayed In your last pos
+Attack for Hero: Chogath which in place <2, 2>:
+Arena Squares Types:
+
+ [34mW[0m  [34mW[0m  [34mW[0m  [34mW[0m 
+ [31mT[0m  [32mG[0m  [31mT[0m  S 
+ S  [34mW[0m  S  [34mW[0m 
+ S  [34mW[0m  S  [31mT[0m 
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[36m E [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+The Hero's Information Are:
+Name: Gnar
+Level: 1
+Player: 2
+Health: 450.0
+Max Health: 450.0
+Magic Resistance: 30.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 32.399998
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 5.0
+Mana Start: 5.0
+Ability: GnarAbility
+Power Attack: 45.0
+Mana Price: 10.0
+Hero Price: 4.0
+Armor: 30.0%
+Groups: 
+1- Wild
+2- Yordle
+3- Shapeshifter
+Hero xPos: 0 , yPos: 0
+Is Alive: YES
+The Hero's Information Are:
+Name: Kindred
+Level: 1
+Player: 2
+Health: 350.0
+Max Health: 350.0
+Magic Resistance: 10.0%
+Attack Scope: 62.0
+Vission Scope: 32.0
+Speed: 5.0
+Possible Series Attack: 25.0%
+Series Attack Power: 200.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: KindredAbility
+Power Attack: 50.0
+Mana Price: 10.0
+Hero Price: 2.0
+Armor: 53.225%
+Groups: 
+1- Void
+2- Ranger
+3- Knight
+Hero xPos: 1 , yPos: 2
+Is Alive: YES
+Item: KnightArmor
+The Hero's Information Are:
+Name: Vayne
+Level: 1
+Player: 2
+Health: 300.0
+Max Health: 300.0
+Magic Resistance: 0.0%
+Attack Scope: 62.0
+Vission Scope: 32.0
+Speed: 5.0
+Possible Series Attack: 25.0%
+Series Attack Power: 1512.0%
+Mana: 0.0
+Mana Start: 0.0
+Ability: VayneAbility
+Power Attack: 72.0
+Mana Price: 3.0
+Hero Price: 1.0
+Armor: 30.0%
+Groups: 
+1- Noble
+2- Ranger
+3- Sorcerer
+Hero xPos: 2 , yPos: 1
+Is Alive: YES
+Item: MagicHat
+The Hero's Information Are:
+Name: Mordekaiser
+Level: 1
+Player: 2
+Health: 550.0
+Max Health: 550.0
+Magic Resistance: 50.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 216.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: MordekaiserAbility
+Power Attack: 200.0
+Mana Price: 10.0
+Hero Price: 1.0
+Armor: 70.0%
+Groups: 
+1- Void
+2- Knight
+3- Yordle
+Hero xPos: 2 , yPos: 2
+Is Alive: YES
+Item: AngryCloak
+2: it is your turn.
+Your Arena: 
+ C  #  #  # 
+ #  #  *  # 
+ #  E  E  # 
+ #  #  #  # 
+2 is playing now...
+Auto Player Buys Hero And Put him in the Bench
+2 is playing now...
+2 is playing now...
+2 is playing now...
+2 is playing now...
+2 is playing now...
+The Hero's Information Are:
+Name: Fiora
+Level: 1
+Player: 3
+Health: 500.0
+Max Health: 500.0
+Magic Resistance: 0.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: FioraAbility
+Power Attack: 22.5
+Mana Price: 10.0
+Hero Price: 1.0
+Armor: 40.0%
+Groups: 
+1- Noble
+2- BladeMaster
+Hero xPos: 0 , yPos: 0
+Is Alive: YES
+The Hero's Information Are:
+Name: Lulu
+Level: 1
+Player: 3
+Health: 287.0
+Max Health: 235.34
+Magic Resistance: 0.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 15.0
+Mana Start: 5.0
+Ability: LuluAbility
+Power Attack: 30.25
+Mana Price: 10.0
+Hero Price: 2.0
+Armor: 50.0%
+Groups: 
+1- Yordle
+2- Elemntalist
+3- BladeMaster
+Hero xPos: 2 , yPos: 1
+Is Alive: YES
+Item: WarriorGloves
+The Hero's Information Are:
+Name: Pyke
+Level: 1
+Player: 3
+Health: 200.0
+Max Health: 200.0
+Magic Resistance: 0.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 7.0
+Mana Start: 5.0
+Ability: PykeAbility
+Power Attack: 72.0
+Mana Price: 7.0
+Hero Price: 2.0
+Armor: 33.0625%
+Groups: 
+1- Pirate
+2- Assassin
+3- Knight
+Hero xPos: 2 , yPos: 1
+Is Alive: YES
+Item: KnightArmor
+Item: NightShift
+The Hero's Information Are:
+Name: Kassadin
+Level: 1
+Player: 3
+Health: 550.0
+Max Health: 550.0
+Magic Resistance: 0.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 2268.0%
+Mana: 0.0
+Mana Start: 0.0
+Ability: KassadinAbility
+Power Attack: 50.0
+Mana Price: 0.0
+Hero Price: 2.0
+Armor: 39.675%
+Groups: 
+1- Void
+2- Sorcerer
+3- Knight
+Hero xPos: 2 , yPos: 2
+Is Alive: YES
+Item: KnightArmor
+The Hero's Information Are:
+Name: Chogath
+Level: 1
+Player: 3
+Health: 640.0
+Max Health: 661.5
+Magic Resistance: 0.0%
+Attack Scope: 25.0
+Vission Scope: 15.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: ChogathAbility
+Power Attack: 35.0
+Mana Price: 10.0
+Hero Price: 1.0
+Armor: 50.0%
+Groups: 
+1- Void
+2- Brawler
+Hero xPos: 2 , yPos: 2
+Is Alive: YES
+Item: VoidHit
+3: it is your turn.
+Your Arena: 
+ E  #  #  # 
+ #  #  #  # 
+ #  C  C  # 
+ #  #  #  # 
+3 is playing now...
+3 is playing now...
+3 is playing now...
+3 is playing now...
+3 is playing now...
+3 is playing now...
+Attack for Hero: Lulu which in place <2, 1>:
+Speed Answer: 0 Move Answer: 4 X: 2 Y: 1
+2 1
+There is no item in your place to catch !
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[36m E [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+OLD MOVE X: 2 OLD MOVE Y: 1
+new MOVE X: 2 new MOVE Y: 1
+You Stayed In your last pos
+Attack for Hero: Kassadin which in place <2, 2>:
+Speed Answer: 4 Move Answer: 7 X: 2 Y: 2
+2 Is X
+2 Is Y
+4
+Invalid Place
+OLD MOVE X: 2 OLD MOVE Y: 2
+new MOVE X: 2 new MOVE Y: 2
+You Stayed In your last pos
+Speed Answer: 1 Move Answer: 1 X: 1 Y: 1
+0
+0
+0 1
+MagicHat And The Wearer Is Also  Added Successfully
+Before: Damage: 72.0
+After: Damage: 86.4
+This Group is already exist
+Hero Now Have Groups: 
+1- Glacial
+2- Knight
+3- Sorcerer
+ Added Successfully
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[36m E [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+OLD MOVE X: 1 OLD MOVE Y: 1
+new MOVE X: 0 new MOVE Y: 1
+Hero Now Can See Just Full Vission because he left the grass
+Speed Answer: 2 Move Answer: 6 X: 2 Y: 1
+Invalid Place
+OLD MOVE X: 2 OLD MOVE Y: 1
+new MOVE X: 2 new MOVE Y: 1
+You Stayed In your last pos
+Ability for Hero: Mordekaiser which in place <0, 0>:
+ID: 28 ID 42
+ID: 28 ID 28
+Hero: Mordekaiser Damage incremented successfully
+Player Name Conf: 2
+Player Name Conf: 2
+Player Name Conf: 2
+Player Name Conf: 3
+The random player is : 3 The Random Hero Is: 32
+Player 2 Destroy Hero Pyke Of Player 3 Magic Resistance Totally
+Player 2 Destroy Hero Pyke Of Player 3 In his health By 150
+Ability Has Been Done Successfully
+YAAAAY
+Ability for Hero: Graves which in place <0, 0>:
+ID: 15 ID 42
+ID: 15 ID 28
+ID: 15 ID 15
+Player Name Conf: 3
+The random player is : 3 The Random Hero Is: 34
+Player 2 Destroy Hero Sejuani Of Player 3 Magic Resistance Totally
+Player 2 Destroy Hero Sejuani Of Player 3 In his health By 250
+Ability Has Been Done Successfully
+YAAAAY
+Speed Answer: 1 Move Answer: 5 X: 0 Y: 0
+Invalid Place
+OLD MOVE X: 0 OLD MOVE Y: 0
+new MOVE X: 0 new MOVE Y: 0
+You Stayed In your last pos
+------------(Round #11)------------
+Arena Squares Types:
+
+ [34mW[0m  [34mW[0m  [34mW[0m  [34mW[0m 
+ [31mT[0m  [32mG[0m  [31mT[0m  S 
+ S  [34mW[0m  S  [34mW[0m 
+ S  [34mW[0m  S  [31mT[0m 
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[36m E [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+The Hero's Information Are:
+Name: Vayne
+Level: 1
+Player: 2
+Health: 300.0
+Max Health: 300.0
+Magic Resistance: 0.0%
+Attack Scope: 62.0
+Vission Scope: 32.0
+Speed: 5.0
+Possible Series Attack: 25.0%
+Series Attack Power: 1512.0%
+Mana: 0.0
+Mana Start: 0.0
+Ability: VayneAbility
+Power Attack: 72.0
+Mana Price: 3.0
+Hero Price: 1.0
+Armor: 30.0%
+Groups: 
+1- Noble
+2- Ranger
+3- Sorcerer
+Hero xPos: 2 , yPos: 1
+Is Alive: YES
+Item: MagicHat
+The Hero's Information Are:
+Name: Mordekaiser
+Level: 1
+Player: 2
+Health: 550.0
+Max Health: 550.0
+Magic Resistance: 50.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 216.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: MordekaiserAbility
+Power Attack: 350.0
+Mana Price: 10.0
+Hero Price: 1.0
+Armor: 70.0%
+Groups: 
+1- Void
+2- Knight
+3- Yordle
+Hero xPos: 2 , yPos: 2
+Is Alive: YES
+Item: AngryCloak
+The Hero's Information Are:
+Name: Graves
+Level: 1
+Player: 2
+Health: 200.0
+Max Health: 200.0
+Magic Resistance: 20.0%
+Attack Scope: 60.0
+Vission Scope: 30.0
+Speed: 5.0
+Possible Series Attack: 25.0%
+Series Attack Power: 200.0%
+Mana: 5.0
+Mana Start: 5.0
+Ability: GravesAbility
+Power Attack: 60.0
+Mana Price: 10.0
+Hero Price: 4.0
+Armor: 20.0%
+Groups: 
+1- Imperial
+2- Gunslinger
+3- Pirate
+Hero xPos: 0 , yPos: 0
+Is Alive: YES
+The Hero's Information Are:
+Name: Gnar
+Level: 1
+Player: 2
+Health: 450.0
+Max Health: 450.0
+Magic Resistance: 30.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 32.399998
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 5.0
+Mana Start: 5.0
+Ability: GnarAbility
+Power Attack: 45.0
+Mana Price: 10.0
+Hero Price: 4.0
+Armor: 30.0%
+Groups: 
+1- Wild
+2- Yordle
+3- Shapeshifter
+Hero xPos: 0 , yPos: 0
+Is Alive: YES
+2: it is your turn.
+Your Arena: 
+ *  E  #  # 
+ #  #  #  # 
+ #  E  E  # 
+ #  #  #  # 
+2 is playing now...
+2 is playing now...
+2 is playing now...
+2 is playing now...
+2 is playing now...
+2 is playing now...
+Sorry ! This Hero Is Stunned !
+The Hero's Information Are:
+Name: Lulu
+Level: 1
+Player: 3
+Health: 287.0
+Max Health: 235.34
+Magic Resistance: 0.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 20.0
+Mana Start: 5.0
+Ability: LuluAbility
+Power Attack: 30.25
+Mana Price: 10.0
+Hero Price: 2.0
+Armor: 50.0%
+Groups: 
+1- Yordle
+2- Elemntalist
+3- BladeMaster
+Hero xPos: 2 , yPos: 1
+Is Alive: YES
+Item: WarriorGloves
+The Hero's Information Are:
+Name: Pyke
+Level: 1
+Player: 3
+Health: 200.0
+Max Health: 200.0
+Magic Resistance: 0.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 7.0
+Mana Start: 5.0
+Ability: PykeAbility
+Power Attack: 72.0
+Mana Price: 7.0
+Hero Price: 2.0
+Armor: 33.0625%
+Groups: 
+1- Pirate
+2- Assassin
+3- Knight
+Hero xPos: 2 , yPos: 1
+Is Alive: YES
+Item: KnightArmor
+Item: NightShift
+The Hero's Information Are:
+Name: Kassadin
+Level: 1
+Player: 3
+Health: 550.0
+Max Health: 550.0
+Magic Resistance: 0.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 2268.0%
+Mana: 0.0
+Mana Start: 0.0
+Ability: KassadinAbility
+Power Attack: 50.0
+Mana Price: 0.0
+Hero Price: 2.0
+Armor: 39.675%
+Groups: 
+1- Void
+2- Sorcerer
+3- Knight
+Hero xPos: 2 , yPos: 2
+Is Alive: YES
+Item: KnightArmor
+The Hero's Information Are:
+Name: Chogath
+Level: 1
+Player: 3
+Health: 640.0
+Max Health: 661.5
+Magic Resistance: 0.0%
+Attack Scope: 25.0
+Vission Scope: 15.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: ChogathAbility
+Power Attack: 35.0
+Mana Price: 10.0
+Hero Price: 1.0
+Armor: 50.0%
+Groups: 
+1- Void
+2- Brawler
+Hero xPos: 2 , yPos: 2
+Is Alive: YES
+Item: VoidHit
+The Hero's Information Are:
+Name: Sejuani
+Level: 1
+Player: 3
+Health: 550.0
+Max Health: 550.0
+Magic Resistance: 0.0%
+Attack Scope: 40.0
+Vission Scope: 20.0
+Speed: 10.0
+Possible Series Attack: 0.0%
+Series Attack Power: 2268.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: SejuaniAbility
+Power Attack: 103.68
+Mana Price: 10.0
+Hero Price: 2.0
+Armor: 50.0%
+Groups: 
+1- Glacial
+2- Knight
+3- Sorcerer
+Hero xPos: 0 , yPos: 1
+Is Alive: YES
+Item: MagicHat
+Item: MagicHat
+3: it is your turn.
+Your Arena: 
+ E  *  #  # 
+ #  #  E  # 
+ #  C  *  # 
+ #  #  #  # 
+3 is playing now...
+3 is playing now...
+3 is playing now...
+3 is playing now...
+3 is playing now...
+3 is playing now...
+Speed Answer: 7 Move Answer: 4 X: 2 Y: 2
+Invalid Place
+OLD MOVE X: 2 OLD MOVE Y: 2
+new MOVE X: 2 new MOVE Y: 2
+You Stayed In your last pos
+Ability for Hero: Chogath which in place <0, 0>:
+ID: 7 ID 17
+ID: 7 ID 7
+Player Name Conf: 2
+The random player is : 2 The Random Hero Is: 42
+Player 3 Destroy Hero Vayne Of Player 2 Magic Resistance Totally
+Player 3 Destroy Hero Vayne Of Player 2 In his health By 150.0
+Ability Has Been Done Successfully
+YAAAAY
+Ability for Hero: Sejuani which in place <0, 0>:
+ID: 34 ID 17
+ID: 34 ID 7
+ID: 34 ID 34
+Ability Has Been Done Successfully
+YAAAAY
+Speed Answer: 2 Move Answer: 7 X: 0 Y: 0
+0 Is X
+0 Is Y
+4
+<1,0>
+You Are Next To Terran Area <1,0> Type so you can't go throw it
+0 0
+MagicHat And The Wearer Is Also  Added Successfully
+Before: Damage: 22.5
+After: Damage: 27.0
+Hero Now Have Groups: 
+1- Noble
+2- BladeMaster
+3- Sorcerer
+ Added Successfully
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[36m E [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+OLD MOVE X: 0 OLD MOVE Y: 0
+new MOVE X: 0 new MOVE Y: 0
+You Stayed In your last pos
+Attack for Hero: Lulu which in place <2, 1>:
+Ability for Hero: Graves which in place <0, 0>:
+ID: 15 ID 15
+Player Name Conf: 2
+Player Name Conf: 2
+Player Name Conf: 3
+The random player is : 3 The Random Hero Is: 17
+Player 2 Destroy Hero Kassadin Of Player 3 Magic Resistance Totally
+Player 2 Destroy Hero Kassadin Of Player 3 In his health By 300
+Ability Has Been Done Successfully
+YAAAAY
+Ability for Hero: Gnar which in place <0, 0>:
+ID: 14 ID 15
+ID: 14 ID 14
+Hero: Kassadin Magic resitance decremented by 100 and become0.0
+Hero: Chogath Magic resitance decremented by 100 and become0.0
+Hero: Sejuani Magic resitance decremented by 100 and become0.0
+Hero: Fiora Magic resitance decremented by 100 and become0.0
+Hero: Lulu Magic resitance decremented by 100 and become0.0
+Ability Has Been Done Successfully
+YAAAAY
+Attack for Hero: Vayne which in place <2, 1>:
+Arena Squares Types:
+
+ [34mW[0m  [34mW[0m  [34mW[0m  [34mW[0m 
+ [31mT[0m  [32mG[0m  [31mT[0m  S 
+ S  [34mW[0m  S  [34mW[0m 
+ S  [34mW[0m  S  [31mT[0m 
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[36m E [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+The Hero's Information Are:
+Name: Graves
+Level: 1
+Player: 2
+Health: 200.0
+Max Health: 200.0
+Magic Resistance: 20.0%
+Attack Scope: 60.0
+Vission Scope: 30.0
+Speed: 5.0
+Possible Series Attack: 25.0%
+Series Attack Power: 200.0%
+Mana: 5.0
+Mana Start: 5.0
+Ability: GravesAbility
+Power Attack: 100.0
+Mana Price: 10.0
+Hero Price: 4.0
+Armor: 20.0%
+Groups: 
+1- Imperial
+2- Gunslinger
+3- Pirate
+Hero xPos: 0 , yPos: 0
+Is Alive: YES
+The Hero's Information Are:
+Name: Gnar
+Level: 1
+Player: 2
+Health: 450.0
+Max Health: 450.0
+Magic Resistance: 30.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 32.399998
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 5.0
+Mana Start: 5.0
+Ability: GnarAbility
+Power Attack: 45.0
+Mana Price: 10.0
+Hero Price: 4.0
+Armor: 30.0%
+Groups: 
+1- Wild
+2- Yordle
+3- Shapeshifter
+Hero xPos: 0 , yPos: 0
+Is Alive: YES
+The Hero's Information Are:
+Name: Kindred
+Level: 1
+Player: 2
+Health: 350.0
+Max Health: 350.0
+Magic Resistance: 10.0%
+Attack Scope: 62.0
+Vission Scope: 32.0
+Speed: 5.0
+Possible Series Attack: 25.0%
+Series Attack Power: 200.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: KindredAbility
+Power Attack: 50.0
+Mana Price: 10.0
+Hero Price: 2.0
+Armor: 53.225%
+Groups: 
+1- Void
+2- Ranger
+3- Knight
+Hero xPos: 1 , yPos: 2
+Is Alive: YES
+Item: KnightArmor
+The Hero's Information Are:
+Name: Vayne
+Level: 1
+Player: 2
+Health: 300.0
+Max Health: 300.0
+Magic Resistance: 0.0%
+Attack Scope: 62.0
+Vission Scope: 32.0
+Speed: 5.0
+Possible Series Attack: 25.0%
+Series Attack Power: 1512.0%
+Mana: 0.0
+Mana Start: 0.0
+Ability: VayneAbility
+Power Attack: 72.0
+Mana Price: 3.0
+Hero Price: 1.0
+Armor: 30.0%
+Groups: 
+1- Noble
+2- Ranger
+3- Sorcerer
+Hero xPos: 2 , yPos: 1
+Is Alive: YES
+Item: MagicHat
+2: it is your turn.
+Your Arena: 
+ C  E  #  # 
+ #  #  *  # 
+ #  C  E  # 
+ #  #  #  # 
+2 is playing now...
+2 is playing now...
+2 is playing now...
+2 is playing now...
+2 is playing now...
+2 is playing now...
+The Hero's Information Are:
+Name: Kassadin
+Level: 1
+Player: 3
+Health: 550.0
+Max Health: 550.0
+Magic Resistance: 0.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 0.0%
+Series Attack Power: 2268.0%
+Mana: 0.0
+Mana Start: 0.0
+Ability: KassadinAbility
+Power Attack: 50.0
+Mana Price: 0.0
+Hero Price: 2.0
+Armor: 59.675%
+Groups: 
+1- Void
+2- Sorcerer
+3- Knight
+Hero xPos: 2 , yPos: 2
+Is Alive: YES
+Item: KnightArmor
+The Hero's Information Are:
+Name: Chogath
+Level: 1
+Player: 3
+Health: 680.0
+Max Health: 661.5
+Magic Resistance: 0.0%
+Attack Scope: 25.0
+Vission Scope: 15.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: ChogathAbility
+Power Attack: 35.0
+Mana Price: 10.0
+Hero Price: 1.0
+Armor: 70.0%
+Groups: 
+1- Void
+2- Brawler
+Hero xPos: 2 , yPos: 2
+Is Alive: YES
+Item: VoidHit
+The Hero's Information Are:
+Name: Sejuani
+Level: 1
+Player: 3
+Health: 550.0
+Max Health: 550.0
+Magic Resistance: 0.0%
+Attack Scope: 40.0
+Vission Scope: 20.0
+Speed: 10.0
+Possible Series Attack: 0.0%
+Series Attack Power: 2268.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: SejuaniAbility
+Power Attack: 103.68
+Mana Price: 10.0
+Hero Price: 2.0
+Armor: 70.0%
+Groups: 
+1- Glacial
+2- Knight
+3- Sorcerer
+Hero xPos: 0 , yPos: 1
+Is Alive: YES
+Item: MagicHat
+Item: MagicHat
+The Hero's Information Are:
+Name: Fiora
+Level: 1
+Player: 3
+Health: 500.0
+Max Health: 500.0
+Magic Resistance: 0.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: FioraAbility
+Power Attack: 32.4
+Mana Price: 10.0
+Hero Price: 1.0
+Armor: 60.0%
+Groups: 
+1- Noble
+2- BladeMaster
+3- Sorcerer
+Hero xPos: 0 , yPos: 0
+Is Alive: YES
+Item: MagicHat
+The Hero's Information Are:
+Name: Lulu
+Level: 1
+Player: 3
+Health: 287.0
+Max Health: 235.34
+Magic Resistance: 0.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 25.0
+Mana Start: 5.0
+Ability: LuluAbility
+Power Attack: 30.25
+Mana Price: 10.0
+Hero Price: 2.0
+Armor: 50.0%
+Groups: 
+1- Yordle
+2- Elemntalist
+3- BladeMaster
+Hero xPos: 2 , yPos: 1
+Is Alive: YES
+Item: WarriorGloves
+3: it is your turn.
+Your Arena: 
+ E  *  #  # 
+ #  #  E  # 
+ #  C  *  # 
+ #  #  #  # 
+3 is playing now...
+Auto Player Buys Hero And Put him in the Bench
+3 is playing now...
+3 is playing now...
+3 is playing now...
+3 is playing now...
+3 is playing now...
+Speed Answer: 5 Move Answer: 7 X: 0 Y: 0
+0 Is X
+0 Is Y
+4
+Invalid Place
+OLD MOVE X: 0 OLD MOVE Y: 0
+new MOVE X: 0 new MOVE Y: 0
+You Stayed In your last pos
+Attack for Hero: Lulu which in place <2, 1>:
+Speed Answer: 5 Move Answer: 4 X: 0 Y: 0
+Invalid Place
+OLD MOVE X: 0 OLD MOVE Y: 0
+new MOVE X: 0 new MOVE Y: 0
+You Stayed In your last pos
+Speed Answer: 0 Move Answer: 2 X: 2 Y: 2
+2 2
+There is no item in your place to catch !
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[36m E [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+OLD MOVE X: 2 OLD MOVE Y: 2
+new MOVE X: 2 new MOVE Y: 2
+You Stayed In your last pos
+Ability for Hero: Chogath which in place <0, 0>:
+ID: 7 ID 11
+ID: 7 ID 26
+ID: 7 ID 34
+ID: 7 ID 17
+ID: 7 ID 7
+Player Name Conf: 2
+The random player is : 2 The Random Hero Is: 15
+Player 3 Destroy Hero Graves Of Player 2 Magic Resistance Totally
+Player 3 Destroy Hero Graves Of Player 2 In his health By 130.0
+Ability Has Been Done Successfully
+YAAAAY
+Ability for Hero: Graves which in place <0, 0>:
+ID: 15 ID 15
+Player Name Conf: 3
+The random player is : 3 The Random Hero Is: 34
+Player 2 Destroy Hero Sejuani Of Player 3 Magic Resistance Totally
+Player 2 Destroy Hero Sejuani Of Player 3 In his health By 250
+Ability Has Been Done Successfully
+YAAAAY
+Attack for Hero: Gnar which in place <0, 0>:
+Armor Damaged By: 150.0
+Helath Damaged by: 90.325
+Gnar attack Kassadin with damage: 90.325
+Gnar attack Chogath with damage: 0.0
+Attack for Hero: Kindred which in place <1, 2>:
+Speed Answer: 3 Move Answer: 0 X: 2 Y: 1
+OLD MOVE X: 2 OLD MOVE Y: 1
+new MOVE X: 2 new MOVE Y: 1
+You Stayed In your last pos
+Arena Squares Types:
+
+ [34mW[0m  [34mW[0m  [34mW[0m  [34mW[0m 
+ [31mT[0m  [32mG[0m  [31mT[0m  S 
+ S  [34mW[0m  S  [34mW[0m 
+ S  [34mW[0m  S  [31mT[0m 
+Arena Items
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[36m E [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+The Hero's Information Are:
+Name: Graves
+Level: 1
+Player: 2
+Health: 200.0
+Max Health: 200.0
+Magic Resistance: 0.0%
+Attack Scope: 60.0
+Vission Scope: 30.0
+Speed: 5.0
+Possible Series Attack: 25.0%
+Series Attack Power: 200.0%
+Mana: 5.0
+Mana Start: 5.0
+Ability: GravesAbility
+Power Attack: 100.0
+Mana Price: 10.0
+Hero Price: 4.0
+Armor: 20.0%
+Groups: 
+1- Imperial
+2- Gunslinger
+3- Pirate
+Hero xPos: 0 , yPos: 0
+Is Alive: YES
+The Hero's Information Are:
+Name: Gnar
+Level: 1
+Player: 2
+Health: 450.0
+Max Health: 450.0
+Magic Resistance: 30.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 32.399998
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: GnarAbility
+Power Attack: 45.0
+Mana Price: 10.0
+Hero Price: 4.0
+Armor: 30.0%
+Groups: 
+1- Wild
+2- Yordle
+3- Shapeshifter
+Hero xPos: 0 , yPos: 0
+Is Alive: YES
+The Hero's Information Are:
+Name: Kindred
+Level: 1
+Player: 2
+Health: 350.0
+Max Health: 350.0
+Magic Resistance: 10.0%
+Attack Scope: 62.0
+Vission Scope: 32.0
+Speed: 5.0
+Possible Series Attack: 25.0%
+Series Attack Power: 200.0%
+Mana: 7.0
+Mana Start: 5.0
+Ability: KindredAbility
+Power Attack: 50.0
+Mana Price: 10.0
+Hero Price: 2.0
+Armor: 53.225%
+Groups: 
+1- Void
+2- Ranger
+3- Knight
+Hero xPos: 1 , yPos: 2
+Is Alive: YES
+Item: KnightArmor
+The Hero's Information Are:
+Name: Vayne
+Level: 1
+Player: 2
+Health: 300.0
+Max Health: 300.0
+Magic Resistance: 0.0%
+Attack Scope: 62.0
+Vission Scope: 32.0
+Speed: 5.0
+Possible Series Attack: 25.0%
+Series Attack Power: 1512.0%
+Mana: 0.0
+Mana Start: 0.0
+Ability: VayneAbility
+Power Attack: 72.0
+Mana Price: 3.0
+Hero Price: 1.0
+Armor: 30.0%
+Groups: 
+1- Noble
+2- Ranger
+3- Sorcerer
+Hero xPos: 2 , yPos: 1
+Is Alive: YES
+Item: MagicHat
+2: it is your turn.
+Your Arena: 
+ E  #  #  # 
+ #  #  *  # 
+ #  C  E  # 
+ #  #  #  # 
+2 is playing now...
+Auto Player Buys Hero And Put him in the Bench
+2 is playing now...
+2 is playing now...
+2 is playing now...
+2 is playing now...
+2 is playing now...
+The Hero's Information Are:
+Name: Fiora
+Level: 1
+Player: 3
+Health: 500.0
+Max Health: 500.0
+Magic Resistance: 0.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: FioraAbility
+Power Attack: 16.2
+Mana Price: 10.0
+Hero Price: 1.0
+Armor: 60.0%
+Groups: 
+1- Noble
+2- BladeMaster
+3- Sorcerer
+Hero xPos: 0 , yPos: 0
+Is Alive: YES
+Item: MagicHat
+The Hero's Information Are:
+Name: Lulu
+Level: 1
+Player: 3
+Health: 287.0
+Max Health: 235.34
+Magic Resistance: 0.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 30.0
+Mana Start: 5.0
+Ability: LuluAbility
+Power Attack: 15.125
+Mana Price: 10.0
+Hero Price: 2.0
+Armor: 50.0%
+Groups: 
+1- Yordle
+2- Elemntalist
+3- BladeMaster
+Hero xPos: 2 , yPos: 1
+Is Alive: YES
+Item: WarriorGloves
+The Hero's Information Are:
+Name: Sejuani
+Level: 1
+Player: 3
+Health: 550.0
+Max Health: 550.0
+Magic Resistance: 0.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 0.0%
+Series Attack Power: 150.0%
+Mana: 5.0
+Mana Start: 5.0
+Ability: SejuaniAbility
+Power Attack: 50.0
+Mana Price: 10.0
+Hero Price: 2.0
+Armor: 50.0%
+Groups: 
+1- Glacial
+2- Knight
+Hero xPos: 0 , yPos: 0
+Is Alive: YES
+The Hero's Information Are:
+Name: Kassadin
+Level: 1
+Player: 3
+Health: 459.675
+Max Health: 550.0
+Magic Resistance: 0.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 0.0%
+Series Attack Power: 2268.0%
+Mana: 0.0
+Mana Start: 0.0
+Ability: KassadinAbility
+Power Attack: 50.0
+Mana Price: 0.0
+Hero Price: 2.0
+Armor: 0.0%
+Groups: 
+1- Void
+2- Sorcerer
+3- Knight
+Hero xPos: 2 , yPos: 2
+Is Alive: YES
+Item: KnightArmor
+The Hero's Information Are:
+Name: Chogath
+Level: 1
+Player: 3
+Health: 680.0
+Max Health: 661.5
+Magic Resistance: 0.0%
+Attack Scope: 25.0
+Vission Scope: 15.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: ChogathAbility
+Power Attack: 35.0
+Mana Price: 10.0
+Hero Price: 1.0
+Armor: 25.0%
+Groups: 
+1- Void
+2- Brawler
+Hero xPos: 2 , yPos: 2
+Is Alive: YES
+Item: VoidHit
+3: it is your turn.
+Your Arena: 
+ E  #  #  # 
+ #  #  #  # 
+ #  *  C  # 
+ #  #  #  # 
+3 is playing now...
+Auto Player Buys Hero And Put him in the Bench
+3 is playing now...
+3 is playing now...
+3 is playing now...
+3 is playing now...
+3 is playing now...
+Attack for Hero: Kassadin which in place <2, 2>:
+Speed Answer: 5 Move Answer: 0 X: 2 Y: 2
+OLD MOVE X: 2 OLD MOVE Y: 2
+new MOVE X: 2 new MOVE Y: 2
+You Stayed In your last pos
+Speed Answer: 0 Move Answer: 7 X: 0 Y: 1
+0 Is X
+1 Is Y
+4
+0 1
+WarriorGloves And The Wearer Is Also  Added Successfully
+Before: Damage: 103.68
+Damage has ben incremented by 10%
+After: Damage: 114.048004
+Damage has ben incremented by 10%
+Hero Now Have Groups: 
+1- Glacial
+2- Knight
+3- Sorcerer
+4- BladeMaster
+ Added Successfully
+[31m C [0m[34m N [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[36m E [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+OLD MOVE X: 0 OLD MOVE Y: 1
+new MOVE X: 0 new MOVE Y: 1
+You Stayed In your last pos
+Speed Answer: 7 Move Answer: 3 X: 0 Y: 0
+Invalid Place
+OLD MOVE X: 0 OLD MOVE Y: 0
+new MOVE X: 0 new MOVE Y: 0
+You Stayed In your last pos
+Attack for Hero: Fiora which in place <0, 0>:
+Attack for Hero: Mordekaiser which in place <2, 2>:
+Mordekaiser attack Karthus with damage: 350.0
+Mordekaiser mybe is stunned or his group are stunned or Fiora Is immune
+Attack for Hero: Kayle which in place <0, 0>:
+Attack for Hero: Graves which in place <0, 0>:
+Attack for Hero: Gnar which in place <0, 0>:
+Arena Squares Types:
+
+ [34mW[0m  [34mW[0m  [34mW[0m  [34mW[0m 
+ [31mT[0m  [32mG[0m  [31mT[0m  S 
+ S  [34mW[0m  S  [34mW[0m 
+ S  [34mW[0m  S  [31mT[0m 
+Arena Items
+[31m C [0m[34m N [0m[31m C [0m[31m C [0m
+[31m C [0m[31m A [0m[31m C [0m[31m C [0m
+[31m C [0m[36m E [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+The Hero's Information Are:
+Name: Mordekaiser
+Level: 1
+Player: 2
+Health: 550.0
+Max Health: 550.0
+Magic Resistance: 50.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 216.0%
+Mana: 7.0
+Mana Start: 5.0
+Ability: MordekaiserAbility
+Power Attack: 350.0
+Mana Price: 10.0
+Hero Price: 1.0
+Armor: 70.0%
+Groups: 
+1- Void
+2- Knight
+3- Yordle
+Hero xPos: 2 , yPos: 2
+Is Alive: YES
+Item: AngryCloak
+The Hero's Information Are:
+Name: Kayle
+Level: 1
+Player: 2
+Health: 550.0
+Max Health: 550.0
+Magic Resistance: 50.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: KayleAbility
+Power Attack: 50.0
+Mana Price: 10.0
+Hero Price: 8.0
+Armor: 50.0%
+Groups: 
+1- Noble
+2- Knight
+3- Ranger
+Hero xPos: 0 , yPos: 0
+Is Alive: YES
+The Hero's Information Are:
+Name: Graves
+Level: 1
+Player: 2
+Health: 200.0
+Max Health: 200.0
+Magic Resistance: 0.0%
+Attack Scope: 60.0
+Vission Scope: 30.0
+Speed: 5.0
+Possible Series Attack: 25.0%
+Series Attack Power: 200.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: GravesAbility
+Power Attack: 180.0
+Mana Price: 10.0
+Hero Price: 4.0
+Armor: 20.0%
+Groups: 
+1- Imperial
+2- Gunslinger
+3- Pirate
+Hero xPos: 0 , yPos: 0
+Is Alive: YES
+The Hero's Information Are:
+Name: Gnar
+Level: 1
+Player: 2
+Health: 450.0
+Max Health: 450.0
+Magic Resistance: 30.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 32.399998
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 7.0
+Mana Start: 5.0
+Ability: GnarAbility
+Power Attack: 45.0
+Mana Price: 10.0
+Hero Price: 4.0
+Armor: 30.0%
+Groups: 
+1- Wild
+2- Yordle
+3- Shapeshifter
+Hero xPos: 0 , yPos: 0
+Is Alive: YES
+2: it is your turn.
+Your Arena: 
+ E  E  #  # 
+ #  #  #  # 
+ #  #  E  # 
+ #  #  #  # 
+2 is playing now...
+Auto Player Buys Hero And Put him in the Bench
+2 is playing now...
+2 is playing now...
+2 is playing now...
+2 is playing now...
+2 is playing now...
+The Hero's Information Are:
+Name: Kassadin
+Level: 1
+Player: 3
+Health: 459.675
+Max Health: 550.0
+Magic Resistance: 0.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 0.0%
+Series Attack Power: 2268.0%
+Mana: 0.0
+Mana Start: 0.0
+Ability: KassadinAbility
+Power Attack: 50.0
+Mana Price: 0.0
+Hero Price: 2.0
+Armor: 0.0%
+Groups: 
+1- Void
+2- Sorcerer
+3- Knight
+Hero xPos: 2 , yPos: 2
+Is Alive: YES
+Item: KnightArmor
+The Hero's Information Are:
+Name: Chogath
+Level: 1
+Player: 3
+Health: 680.0
+Max Health: 661.5
+Magic Resistance: 0.0%
+Attack Scope: 25.0
+Vission Scope: 15.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: ChogathAbility
+Power Attack: 35.0
+Mana Price: 10.0
+Hero Price: 1.0
+Armor: 25.0%
+Groups: 
+1- Void
+2- Brawler
+Hero xPos: 2 , yPos: 2
+Is Alive: YES
+Item: VoidHit
+The Hero's Information Are:
+Name: Sejuani
+Level: 1
+Player: 3
+Health: 550.0
+Max Health: 550.0
+Magic Resistance: 0.0%
+Attack Scope: 40.0
+Vission Scope: 20.0
+Speed: 10.0
+Possible Series Attack: 0.0%
+Series Attack Power: 2268.0%
+Mana: 6.0
+Mana Start: 5.0
+Ability: SejuaniAbility
+Power Attack: 125.452805
+Mana Price: 10.0
+Hero Price: 2.0
+Armor: 70.0%
+Groups: 
+1- Glacial
+2- Knight
+3- Sorcerer
+4- BladeMaster
+Hero xPos: 0 , yPos: 1
+Is Alive: YES
+Item: MagicHat
+Item: MagicHat
+Item: WarriorGloves
+The Hero's Information Are:
+Name: Karthus
+Level: 1
+Player: 3
+Health: 450.0
+Max Health: 450.0
+Magic Resistance: 30.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 5.0
+Mana Start: 5.0
+Ability: KarthusAbility
+Power Attack: 50.0
+Mana Price: 10.0
+Hero Price: 4.0
+Armor: 30.0%
+Groups: 
+1- Void
+2- Sorcerer
+Hero xPos: 0 , yPos: 0
+Is Alive: YES
+The Hero's Information Are:
+Name: Fiora
+Level: 1
+Player: 3
+Health: 500.0
+Max Health: 500.0
+Magic Resistance: 0.0%
+Attack Scope: 20.0
+Vission Scope: 10.0
+Speed: 10.0
+Possible Series Attack: 25.0%
+Series Attack Power: 150.0%
+Mana: 7.0
+Mana Start: 5.0
+Ability: FioraAbility
+Power Attack: 16.2
+Mana Price: 10.0
+Hero Price: 1.0
+Armor: 60.0%
+Groups: 
+1- Noble
+2- BladeMaster
+3- Sorcerer
+Hero xPos: 0 , yPos: 0
+Is Alive: YES
+Item: MagicHat
+3: it is your turn.
+Your Arena: 
+ E  *  #  # 
+ #  #  E  # 
+ #  E  *  # 
+ #  #  #  # 
+3 is playing now...
+3 is playing now...
+3 is playing now...
+3 is playing now...
+3 is playing now...
+3 is playing now...
+Attack for Hero: Karthus which in place <0, 0>:
+Speed Answer: 5 Move Answer: 6 X: 0 Y: 0
+Invalid Place
+OLD MOVE X: 0 OLD MOVE Y: 0
+new MOVE X: 0 new MOVE Y: 0
+You Stayed In your last pos
+Speed Answer: 6 Move Answer: 7 X: 2 Y: 1
+2 Is X
+1 Is Y
+4
+Invalid Place
+OLD MOVE X: 2 OLD MOVE Y: 1
+new MOVE X: 2 new MOVE Y: 1
+You Stayed In your last pos
+Attack for Hero: Sejuani which in place <0, 0>:
+Ability for Hero: Kassadin which in place <0, 0>:
+ID: 17 ID 16
+ID: 17 ID 11
+ID: 17 ID 26
+ID: 17 ID 34
+ID: 17 ID 17
+Player Name Conf: 2
+The random player is : 2 The Random Hero Is: 14
+Player 3 Destroy Hero Gnar Of Player 2 Magic Resistance Totally
+Player 3 Destroy Hero Gnar Of Player 2 In his health By 40.0
+Ability Has Been Done Successfully
+YAAAAY
+Ability for Hero: Graves which in place <0, 0>:
+ID: 15 ID 15
+Player Name Conf: 3
+The random player is : 3 The Random Hero Is: 11
+Player 2 Destroy Hero Fiora Of Player 3 Magic Resistance Totally
+Player 2 Destroy Hero Fiora Of Player 3 In his health By 300
+Ability Has Been Done Successfully
+YAAAAY
+Ability for Hero: Gnar which in place <0, 0>:
+ID: 14 ID 15
+ID: 14 ID 14
+Hero: Karthus Magic resitance decremented by 100 and become0.0
+Hero: Fiora Magic resitance decremented by 100 and become0.0
+Hero: Lulu Magic resitance decremented by 100 and become0.0
+Hero: Sejuani Magic resitance decremented by 100 and become0.0
+Hero: Kassadin Magic resitance decremented by 100 and become0.0
+Ability Has Been Done Successfully
+YAAAAY
+Speed Answer: 2 Move Answer: 3 X: 1 Y: 2
+0
+0
+You Are Next To Terran Area <1,0> Type so you can't go throw it
+1 1
+AngryCloak And The Wearer Is Also  Added Successfully
+Before: Damage: 50.0
+Series Power Attack Has been incremented 20% successfully
+After: Damage: 50.0
+Series Power Attack Has been incremented 20% successfully
+Hero Now Have Groups: 
+1- Void
+2- Ranger
+3- Knight
+4- Yordle
+ Added Successfully
+[31m C [0m[34m N [0m[31m C [0m[31m C [0m
+[31m C [0m[36m E [0m[31m C [0m[31m C [0m
+[31m C [0m[36m E [0m[36m E [0m[31m C [0m
+[31m C [0m[31m C [0m[31m C [0m[31m C [0m
+OLD MOVE X: 1 OLD MOVE Y: 2
+new MOVE X: 1 new MOVE Y: 1
+Hero Now Can See Just Half Vission because he is in the grass
+Ability for Hero: Vayne which in place <0, 0>:
+ID: 42 ID 15
+ID: 42 ID 14
+ID: 42 ID 22
+ID: 42 ID 42
+Player Name Conf: 3
+The random player is : 3 The Random Hero Is: 16
+Player 2 Destroy Hero Karthus Of Player 3 Max Health By 10% and become 369.0
+Ability Has Been Done Successfully
+YAAAAY
+Game over

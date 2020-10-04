@@ -1,0 +1,597 @@
+---------------------------------------New Game---------------------------------------------------
+Player Winner: 2 Hero Still Alive: 
+-Hero Name: Fiora
+Health: 500.0
+Items: 
+Groups: Noble, BladeMaster, 
+-Hero Name: Yasuo
+Health: 500.0
+Items: 
+Groups: BladeMaster, Assassin, 
+-Hero Name: Akali
+Health: 350.0
+Items: 
+Groups: Ninja, Assassin, Imperial, 
+---------------------------------------New Game---------------------------------------------------
+Player Winner: 2 Hero Still Alive: 
+-Hero Name: Draven
+Health: 400.0
+Items: WarriorGloves, 
+Groups: Imperial, BladeMaster, Ranger, 
+-Hero Name: Ranger
+Health: 500.0
+Items: 
+Groups: Wild, Assassin, 
+---------------------------------------New Game---------------------------------------------------
+Game Start At: 
+14:03:39Game End At: 14:03:51
+Player Winner: 1 Hero Still Alive: 
+1-Hero Name: Draven
+Health: 400.0
+Items: KnightArmor, 
+Groups: Imperial, BladeMaster, Ranger, Knight, 
+2-Hero Name: Tristana
+Health: 420.0
+Items: 
+Groups: Yordle, Gunslinger, 
+3-Hero Name: Tristana
+Health: 450.0
+Items: WarriorGloves, UniverseCore, 
+Groups: Yordle, Gunslinger, BladeMaster, Elemntalist, 
+---------------------------------------New Game---------------------------------------------------
+Game Start At: 14:05:16
+Game End At: 14:05:34
+Player Winner: 2 Hero Still Alive: 
+1- Hero Name: Veiger
+Health: 300.0
+Items: 
+Groups: Yordle, Sorcerer, 
+---------------------------------------New Game---------------------------------------------------
+Game Start At: 14:08:31
+Game End At: 14:08:43
+Last Round: 11
+Player Winner: 2 Hero Still Alive: 
+1- Hero Name: MissFortune
+Health: 120.0
+Items: VoidHit, 
+Groups: Pirate, Gunslinger, Void, 
+2- Hero Name: Brand
+Health: 400.0
+Items: NightShift, 
+Groups: Demon, Sorcerer, Assassin, 
+3- Hero Name: Kassadin
+Health: 550.0
+Items: KnightArmor, 
+Groups: Void, Sorcerer, Knight, 
+4- Hero Name: Azir
+Health: 325.0
+Items: VoidHit, 
+Groups: Dragons, Sorcerer, Ranger, Void, 
+5- Hero Name: Graves
+Health: 200.0
+Items: MagicHat, UniverseCore, 
+Groups: Imperial, Gunslinger, Pirate, Sorcerer, Elemntalist, 
+6- Hero Name: Khazix
+Health: 400.0
+Items:  Empty
+Groups: Void, Assassin, 
+---------------------------------------New Game---------------------------------------------------
+Game Start At: 14:19:00
+Game End At: 14:19:13
+Last Round: 14
+Player Winner: 2
+Player Type: Boot 
+Hero Still Alive: 
+1- Hero Name: Azir
+Health: 400.0
+Items:  Empty
+Groups: Dragons, Sorcerer, Ranger, 
+2- Hero Name: Akali
+Health: 350.0
+Items: UniverseCore, 
+Groups: Ninja, Assassin, Imperial, Elemntalist, 
+3- Hero Name: Garen
+Health: 600.0
+Items: AngryCloak, 
+Groups: Noble, Knight, Brawler, Yordle, 
+---------------------------------------New Game---------------------------------------------------
+Game Start At: 14:54:06
+Game End At: 14:54:20
+Last Round: 16
+Player Winner: 2
+Player Type: Boot 
+Hero Still Alive: 
+1- Hero Name: Nidale
+Health: 500.0
+Items: NightShift, NightShift, 
+Groups: Wild, Shapeshifter, Assassin, 
+2- Hero Name: MissFortune
+Health: 200.0
+Items:  Empty
+Groups: Pirate, Gunslinger, 
+3- Hero Name: Lissandra
+Health: 800.0
+Items:  Empty
+Groups: Glacial, Elemntalist, Sorcerer, 
+4- Hero Name: Azir
+Health: 400.0
+Items: UniverseCore, MagicHat, 
+Groups: Dragons, Sorcerer, Ranger, Elemntalist, 
+---------------------------------------New Game---------------------------------------------------
+Game Start At: 15:00:50
+Game End At: 15:01:16
+Last Round: 20
+Player Winner: 1
+Player Type: Boot 
+Hero Still Alive: 
+1- Hero Name: Veiger
+Health: 300.0
+Items:  Empty
+Groups: Yordle, Sorcerer, 
+2- Hero Name: Draven
+Health: 400.0
+Items: NightShift, 
+Groups: Imperial, BladeMaster, Ranger, Assassin, 
+---------------------------------------New Game---------------------------------------------------
+Game Start At: 15:03:09
+Game End At: 15:03:23
+Last Round: 16
+Player Winner: 1
+Player Type: Boot 
+Hero Still Alive: 
+1- Hero Name: Akali
+Health: 100.0
+Items: MagicHat, WarriorGloves, 
+Groups: Ninja, Assassin, Imperial, Sorcerer, BladeMaster, 
+2- Hero Name: MissFortune
+Health: 20.0
+Items:  Empty
+Groups: Pirate, Gunslinger, 
+---------------------------------------New Game---------------------------------------------------
+Game Start At: 16:08:44
+Game End At: 16:09:53
+Last Round: 11
+Player Winner: 2
+Player Type: Boot 
+Hero Still Alive: 
+1- Hero Name: Kennen
+Health: 350.0
+Items: UniverseCore, 
+Groups: Ninja, Yordle, Elemntalist, Elemntalist, 
+2- Hero Name: Aatrox
+Health: 750.0
+Items: NightShift, 
+Groups: Demon, BladeMaster, Assassin, 
+3- Hero Name: Tristana
+Health: 450.0
+Items: KnightArmor, 
+Groups: Yordle, Gunslinger, Knight, 
+4- Hero Name: Leona
+Health: 500.0
+Items: NightShift, 
+Groups: Noble, BladeMaster, Brawler, Assassin, 
+5- Hero Name: Chogath
+Health: 600.0
+Items: UniverseCore, 
+Groups: Void, Brawler, Elemntalist, 
+6- Hero Name: Katarina
+Health: 450.0
+Items:  Empty
+Groups: Imperial, Assassin, 
+---------------------------------------New Game---------------------------------------------------
+Game Start At: 16:08:44
+Game End At: 16:12:57
+Last Round: 12
+Player Winner: 2
+Player Type: Boot 
+Hero Still Alive: 
+1- Hero Name: Kennen
+Health: 350.0
+Items: UniverseCore, 
+Groups: Ninja, Yordle, Elemntalist, Elemntalist, 
+2- Hero Name: Aatrox
+Health: 750.0
+Items: NightShift, 
+Groups: Demon, BladeMaster, Assassin, 
+3- Hero Name: Tristana
+Health: 450.0
+Items: KnightArmor, 
+Groups: Yordle, Gunslinger, Knight, 
+4- Hero Name: Leona
+Health: 500.0
+Items: NightShift, 
+Groups: Noble, BladeMaster, Brawler, Assassin, 
+5- Hero Name: Chogath
+Health: 600.0
+Items: UniverseCore, 
+Groups: Void, Brawler, Elemntalist, 
+6- Hero Name: Katarina
+Health: 450.0
+Items:  Empty
+Groups: Imperial, Assassin, 
+---------------------------------------New Game---------------------------------------------------
+Game Start At: 16:18:03
+Game End At: 16:18:55
+Last Round: 27
+Player Winner: 2
+Player Type: Boot 
+Hero Still Alive: 
+1- Hero Name: Zed
+Health: 350.0
+Items: UniverseCore, 
+Groups: Ninja, Assassin, BladeMaster, Elemntalist, 
+2- Hero Name: Varus
+Health: 298.0
+Items: VoidHit, KnightArmor, AngryCloak, 
+Groups: Demon, Ranger, Void, Knight, Yordle, 
+3- Hero Name: Katarina
+Health: 283.0
+Items: VoidHit, 
+Groups: Imperial, Assassin, Void, 
+---------------------------------------New Game---------------------------------------------------
+Game Start At: 16:18:03
+Game End At: 16:19:48
+Last Round: 28
+Player Winner: 2
+Player Type: Boot 
+Hero Still Alive: 
+1- Hero Name: Zed
+Health: 350.0
+Items: UniverseCore, 
+Groups: Ninja, Assassin, BladeMaster, Elemntalist, 
+2- Hero Name: Varus
+Health: 298.0
+Items: VoidHit, KnightArmor, AngryCloak, 
+Groups: Demon, Ranger, Void, Knight, Yordle, 
+3- Hero Name: Katarina
+Health: 283.0
+Items: VoidHit, 
+Groups: Imperial, Assassin, Void, 
+--------------------------------------- New Game ---------------------------------------------------
+Game Start At: 16:22:22
+Game End At: 16:22:40
+Last Round: 15
+Player Winner: 1
+Player Type: Boot 
+Hero Still Alive: 
+1- Hero Name: Aatrox
+Health: 200.0
+Items: WarriorGloves, VoidHit, 
+Groups: Demon, BladeMaster, Void, 
+2- Hero Name: Pyke
+Health: 200.0
+Items: WarriorGloves, 
+Groups: Pirate, Assassin, BladeMaster, 
+3- Hero Name: Lucian
+Health: 450.0
+Items: NightShift, 
+Groups: Noble, Gunslinger, Assassin, 
+4- Hero Name: Gankplank
+Health: 200.0
+Items: NightShift, WarriorGloves, UniverseCore, 
+Groups: Pirate, BladeMaster, Gunslinger, Assassin, Elemntalist, 
+5- Hero Name: Kassadin
+Health: 550.0
+Items: VoidHit, 
+Groups: Void, Sorcerer, 
+--------------------------------------- New Game ---------------------------------------------------
+Game Start At: 16:22:22
+Game End At: 16:22:52
+Last Round: 16
+Player Winner: 1
+Player Type: Boot 
+Hero Still Alive: 
+1- Hero Name: Aatrox
+Health: 200.0
+Items: WarriorGloves, VoidHit, 
+Groups: Demon, BladeMaster, Void, 
+2- Hero Name: Pyke
+Health: 200.0
+Items: WarriorGloves, 
+Groups: Pirate, Assassin, BladeMaster, 
+3- Hero Name: Lucian
+Health: 450.0
+Items: NightShift, 
+Groups: Noble, Gunslinger, Assassin, 
+4- Hero Name: Gankplank
+Health: 200.0
+Items: NightShift, WarriorGloves, UniverseCore, 
+Groups: Pirate, BladeMaster, Gunslinger, Assassin, Elemntalist, 
+5- Hero Name: Kassadin
+Health: 550.0
+Items: VoidHit, 
+Groups: Void, Sorcerer, 
+--------------------------------------- New Game ---------------------------------------------------
+Game Start At: 16:24:47
+Game End At: 16:25:17
+Last Round: 18
+Player Winner: 2
+Player Type: Boot 
+Hero Still Alive: 
+1- Hero Name: Evelynn
+Health: 500.0
+Items: UniverseCore, UniverseCore, 
+Groups: Demon, Assassin, Elemntalist, Elemntalist, 
+2- Hero Name: Kayle
+Health: 550.0
+Items:  Empty
+Groups: Noble, Knight, Ranger, 
+3- Hero Name: Chogath
+Health: 600.0
+Items: WarriorGloves, 
+Groups: Void, Brawler, BladeMaster, 
+4- Hero Name: Ranger
+Health: 500.0
+Items:  Empty
+Groups: Wild, Assassin, 
+--------------------------------------- New Game ---------------------------------------------------
+Game Start At: 16:35:10
+Game End At: 16:35:24
+Last Round: 36
+Player Winner: 1
+Player Type: Boot 
+Hero Still Alive: 
+1- Hero Name: Shyvana
+Health: 550.55
+Items: AngryCloak, VoidHit, 
+Groups: Dragons, Knight, Brawler, Yordle, Void, 
+2- Hero Name: Katarina
+Health: 450.0
+Items:  Empty
+Groups: Imperial, Assassin, 
+3- Hero Name: Ranger
+Health: 450.0
+Items: NightShift, NightShift, WarriorGloves, 
+Groups: Wild, Assassin, BladeMaster, 
+--------------------------------------- New Game ---------------------------------------------------
+Game Start At: 16:38:54
+Game End At: 16:39:08
+Last Round: 33
+Player Winner: 2
+Player Type: Boot 
+Hero Still Alive: 
+1- Hero Name: Ranger
+Health: 385.875
+Items: KnightArmor, VoidHit, 
+Groups: Wild, Assassin, Knight, Void, 
+2- Hero Name: Akali
+Health: 245.0
+Items: WarriorGloves, 
+Groups: Ninja, Assassin, Imperial, BladeMaster, 
+3- Hero Name: Garen
+Health: 420.0
+Items:  Empty
+Groups: Noble, Knight, Brawler, 
+4- Hero Name: Gankplank
+Health: 200.0
+Items:  Empty
+Groups: Pirate, BladeMaster, Gunslinger, 
+5- Hero Name: Lissandra
+Health: 800.0
+Items:  Empty
+Groups: Glacial, Elemntalist, Sorcerer, 
+6- Hero Name: Fiora
+Health: 270.1125
+Items: VoidHit, WarriorGloves, VoidHit, 
+Groups: Noble, BladeMaster, Void, 
+--------------------------------------- New Game ---------------------------------------------------
+Game Start At: 17:21:33
+Game End At: 17:21:55
+Last Round: 23
+Player Winner: 2
+Player Type: Boot 
+Hero Still Alive: 
+1- Hero Name: Lucian
+Health: 450.0
+Items: AngryCloak, NightShift, MagicHat, 
+Groups: Noble, Gunslinger, Yordle, Assassin, Sorcerer, 
+2- Hero Name: Zed
+Health: 280.25
+Items:  Empty
+Groups: Ninja, Assassin, BladeMaster, 
+3- Hero Name: Sejuani
+Health: 550.0
+Items: NightShift, WarriorGloves, NightShift, 
+Groups: Glacial, Knight, Assassin, BladeMaster, 
+4- Hero Name: Varus
+Health: 500.0
+Items: KnightArmor, 
+Groups: Demon, Ranger, Knight, 
+5- Hero Name: Lissandra
+Health: 800.0
+Items:  Empty
+Groups: Glacial, Elemntalist, Sorcerer, 
+--------------------------------------- New Game ---------------------------------------------------
+Game Start At: 17:24:02
+Game End At: 17:24:25
+Last Round: 21
+Player Winner: 1
+Player Type: Boot 
+Hero Still Alive: 
+1- Hero Name: Lulu
+Health: 350.0
+Items: WarriorGloves, MagicHat, 
+Groups: Yordle, Elemntalist, BladeMaster, Sorcerer, 
+2- Hero Name: Akali
+Health: 250.0
+Items:  Empty
+Groups: Ninja, Assassin, Imperial, 
+3- Hero Name: Talon
+Health: 500.0
+Items:  Empty
+Groups: Ninja, BladeMaster, Assassin, 
+--------------------------------------- New Game ---------------------------------------------------
+Game Start At: 00:06:18
+Game End At: 00:06:35
+Last Round: 23
+Player Winner: 2
+Player Type: Boot 
+Hero Still Alive: 
+1- Hero Name: Lissandra
+Health: 800.0
+Items: NightShift, 
+Groups: Glacial, Elemntalist, Sorcerer, Assassin, 
+2- Hero Name: Aatrox
+Health: 750.0
+Items:  Empty
+Groups: Demon, BladeMaster, 
+3- Hero Name: Morgana
+Health: 500.0
+Items:  Empty
+Groups: Demon, Sorcerer, 
+--------------------------------------- New Game ---------------------------------------------------
+Game Start At: 00:08:27
+Game End At: 00:09:12
+Last Round: 79
+Player Winner: 2
+Player Type: Boot 
+Hero Still Alive: 
+1- Hero Name: Poppy
+Health: 650.0
+Items:  Empty
+Groups: Yordle, Knight, Brawler, 
+2- Hero Name: Tristana
+Health: 450.0
+Items:  Empty
+Groups: Yordle, Gunslinger, 
+3- Hero Name: Shyvana
+Health: 650.0
+Items:  Empty
+Groups: Dragons, Knight, Brawler, 
+4- Hero Name: Tristana
+Health: 450.0
+Items:  Empty
+Groups: Yordle, Gunslinger, 
+--------------------------------------- New Game ---------------------------------------------------
+Game Start At: 10:00:34
+Game End At: 10:00:57
+Last Round: 26
+Player Winner: 2
+Player Type: Boot 
+Hero Still Alive: 
+1- Hero Name: Draven
+Health: 400.0
+Items:  Empty
+Groups: Imperial, BladeMaster, Ranger, 
+2- Hero Name: Azir
+Health: 400.0
+Items: WarriorGloves, 
+Groups: Dragons, Sorcerer, Ranger, BladeMaster, 
+3- Hero Name: Sol
+Health: 400.0
+Items:  Empty
+Groups: Dragons, Elemntalist, 
+--------------------------------------- New Game ---------------------------------------------------
+Game Start At: 10:03:10
+Game End At: 10:06:38
+Last Round: 10
+Player Winner: 2
+Player Type: Boot 
+Hero Still Alive: 
+1- Hero Name: Zed
+Health: 350.0
+Items: AngryCloak, 
+Groups: Ninja, Assassin, BladeMaster, Yordle, 
+2- Hero Name: Kennen
+Health: 350.0
+Items: NightShift, 
+Groups: Ninja, Yordle, Elemntalist, Assassin, 
+--------------------------------------- New Game ---------------------------------------------------
+Game Start At: 10:54:31
+Game End At: 10:54:46
+Last Round: 26
+Player Winner: 1
+Player Type: Boot 
+Hero Still Alive: 
+1- Hero Name: Darius
+Health: 406.0
+Items: UniverseCore, UniverseCore, AngryCloak, 
+Groups: Imperial, Knight, Brawler, Elemntalist, Elemntalist, Yordle, 
+2- Hero Name: Karthus
+Health: 450.0
+Items: MagicHat, VoidHit, 
+Groups: Void, Sorcerer, 
+3- Hero Name: Khazix
+Health: 400.0
+Items: MagicHat, MagicHat, 
+Groups: Void, Assassin, Sorcerer, 
+4- Hero Name: Ahri
+Health: 400.0
+Items:  Empty
+Groups: Wild, Sorcerer, Assassin, 
+--------------------------------------- New Game ---------------------------------------------------
+Game Start At: 10:57:01
+Game End At: 10:57:11
+Last Round: 17
+Player Winner: 1
+Player Type: Boot 
+Hero Still Alive: 
+1- Hero Name: Darius
+Health: 600.0
+Items: WarriorGloves, WarriorGloves, 
+Groups: Imperial, Knight, Brawler, BladeMaster, 
+2- Hero Name: Karthus
+Health: 450.0
+Items: AngryCloak, AngryCloak, 
+Groups: Void, Sorcerer, Yordle, 
+3- Hero Name: Akali
+Health: 350.0
+Items:  Empty
+Groups: Ninja, Assassin, Imperial, 
+4- Hero Name: Mordekaiser
+Health: 550.0
+Items:  Empty
+Groups: Void, Knight, 
+--------------------------------------- New Game ---------------------------------------------------
+Game Start At: 11:00:27
+Game End At: 11:00:38
+Last Round: 15
+Player Winner: 1
+Player Type: Boot 
+Hero Still Alive: 
+1- Hero Name: Shen
+Health: 650.0
+Items: MagicHat, MagicHat, 
+Groups: Ninja, BladeMaster, Sorcerer, 
+2- Hero Name: Warwick
+Health: 370.6605
+Items: VoidHit, 
+Groups: Wild, Brawler, Void, 
+3- Hero Name: Morgana
+Health: 500.0
+Items: UniverseCore, AngryCloak, 
+Groups: Demon, Sorcerer, Elemntalist, Yordle, 
+4- Hero Name: Warwick
+Health: 336.2
+Items: WarriorGloves, KnightArmor, 
+Groups: Wild, Brawler, BladeMaster, Knight, 
+5- Hero Name: Zed
+Health: 350.0
+Items: KnightArmor, 
+Groups: Ninja, Assassin, BladeMaster, Knight, 
+--------------------------------------- New Game ---------------------------------------------------
+Game Start At: 00:52:35
+Game End At: 00:52:55
+Last Round: 67
+Player Winner: 4
+Player Type: Boot 
+Hero Still Alive: 
+1- Hero Name: Veiger
+Health: 50.0
+Items:  Empty
+Groups: Yordle, Sorcerer, 
+2- Hero Name: Gankplank
+Health: 200.0
+Items:  Empty
+Groups: Pirate, BladeMaster, Gunslinger, 
+--------------------------------------- New Game ---------------------------------------------------
+Game Start At: 00:53:05
+Game End At: 00:53:27
+Last Round: 28
+Player Winner: 1
+Player Type: Boot 
+Hero Still Alive: 
+1- Hero Name: Lissandra
+Health: 800.0
+Items:  Empty
+Groups: Glacial, Elemntalist, Sorcerer, 
